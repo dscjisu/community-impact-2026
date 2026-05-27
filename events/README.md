@@ -5,15 +5,15 @@ Chronological log. Each file follows [`_template.md`](./_template.md). Use the d
 ## 2025
 
 - [2025-10-13 — Kickstart Hacktoberfest 2025 and Google Study Jams](./2025-10-13-kickstart-hacktoberfest-and-study-jams.md)
-- [2025-10-27 — Hacktoberfest Meetup Kolkata 2025](./2025-10-27-hacktoberfest-meetup-kolkata.md) · standalone repo planned: `hacktoberfest-meetup-25` (TODO) · interim receipts: [`../Hacktoberfest-Meetup-25/`](../Hacktoberfest-Meetup-25)
+- [2025-10-27 — Hacktoberfest Meetup Kolkata 2025](./2025-10-27-hacktoberfest-meetup-kolkata.md) · standalone repo: [`hacktoberfest-meetup-25`](https://github.com/dscjisu/hacktoberfest-meetup-25) · interim receipts: [`../Hacktoberfest-Meetup-25/`](../Hacktoberfest-Meetup-25)
 - [2025-11-28 — Chill Out & Level Up: Fun with Git & GitHub!](./2025-11-28-chill-out-level-up-git-github.md)
-- [2025-12-20 — GDG JISU Techsprint 2026 Hackathon](./2025-12-20-techsprint-2026-hackathon.md) · standalone repo planned: `techsprint-2026` (TODO)
+- [2025-12-20 — GDG JISU Techsprint 2026 Hackathon](./2025-12-20-techsprint-2026-hackathon.md) · standalone repo: [`techsprint-2026`](https://github.com/dscjisu/techsprint-2026)
 - [2025-12-23 — Google Techsprint Chill Talk 101](./2025-12-23-techsprint-chill-talk-101.md)
 
 ## 2026
 
-- [2026-01-22 — Tech Winter Break Co-Host 2026](./2026-01-22-tech-winter-break-cohost.md) · standalone repo planned: `tech-winter-break-2026` (TODO)
-- [2026-01-28 — GSoC Info Session 2026](./2026-01-28-gsoc-info-session.md) · standalone repo planned: `gsoc-2026` (TODO)
+- [2026-01-22 — Tech Winter Break Co-Host 2026](./2026-01-22-tech-winter-break-cohost.md) · standalone repo: [`tech-winter-break-2026`](https://github.com/dscjisu/tech-winter-break-2026)
+- [2026-01-28 — GSoC Info Session 2026](./2026-01-28-gsoc-info-session.md) · standalone repo: [`gsoc-2026`](https://github.com/dscjisu/gsoc-2026)
 - [2026-02-16 — How I Audit Codebases as a Pentester (Live CTF)](./2026-02-16-pentester-codebase-audit-ctf.md)
 - [2026-02-20 — Boss vs Fresher: System Design Cracker!](./2026-02-20-boss-vs-fresher-system-design.md)
 - [2026-02-24 — Kubernetes and Friends Meetup (CNCF Hooghly)](./2026-02-24-kubernetes-and-friends-cncf-hooghly.md)

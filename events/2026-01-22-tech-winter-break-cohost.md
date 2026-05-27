@@ -11,7 +11,7 @@
 
 Co-hosted segment of the multi-chapter Tech Winter Break programming — bridging students across GDG campus chapters during the academic break with technical sessions.
 
-**Standalone repo planned:** `tech-winter-break-2026` (TODO) — for session materials, recordings, and resources.
+**Standalone repo:** [`dscjisu/tech-winter-break-2026`](https://github.com/dscjisu/tech-winter-break-2026) — slides, photos, resources.
 
 ## What happened
 

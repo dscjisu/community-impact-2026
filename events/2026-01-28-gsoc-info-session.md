@@ -11,7 +11,7 @@
 
 Information session preparing students for Google Summer of Code 2026: how to find mentor orgs, write competitive proposals, and approach the application timeline. Pitched at first-time applicants.
 
-**Standalone repo planned:** `gsoc-2026` (TODO) — for session materials, recordings, and resources.
+**Standalone repo:** [`dscjisu/gsoc-2026`](https://github.com/dscjisu/gsoc-2026) — slides, photos, resources.
 
 ## What happened
 

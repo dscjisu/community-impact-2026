@@ -9,7 +9,7 @@
 
 ## What it was about
 
-Chapter's flagship hackathon for the 2025-26 cycle. Multi-track event with student teams shipping projects across web, ML, and systems tracks. Detailed artifacts (submissions, leaderboard, judging) live in the standalone `techsprint-2026` repo (TODO: create).
+Chapter's flagship hackathon for the 2025-26 cycle. Multi-track event with student teams shipping projects across web, ML, and systems tracks. Detailed artifacts (submissions, leaderboard, judging) live in the standalone repo: [`dscjisu/techsprint-2026`](https://github.com/dscjisu/techsprint-2026).
 
 ## What happened
 

@@ -11,7 +11,7 @@
 
 Kolkata's flagship Hacktoberfest meetup, co-hosted by GDG on Campus JIS University. 290+ participants — students, working developers, and maintainers gathered for hands-on contribution sprints, lightning talks, and community networking. See also `Hacktoberfest-Meetup-25/` in this repo for receipts.
 
-**Standalone repo planned:** `hacktoberfest-meetup-25` (TODO) — for session materials, recordings, and resources.
+**Standalone repo:** [`dscjisu/hacktoberfest-meetup-25`](https://github.com/dscjisu/hacktoberfest-meetup-25) — slides, photos, resources.
 
 ## What happened
 
