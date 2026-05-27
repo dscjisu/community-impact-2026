@@ -14,8 +14,8 @@ Chronological log. Each file follows [`_template.md`](./_template.md). Use the d
 
 - [2026-01-22 — Tech Winter Break Co-Host 2026](./2026-01-22-tech-winter-break-cohost.md) · standalone repo: [`tech-winter-break-2026`](https://github.com/dscjisu/tech-winter-break-2026)
 - [2026-01-28 — GSoC Info Session 2026](./2026-01-28-gsoc-info-session.md) · standalone repo: [`gsoc-2026`](https://github.com/dscjisu/gsoc-2026)
-- [2026-02-16 — How I Audit Codebases as a Pentester (Live CTF)](./2026-02-16-pentester-codebase-audit-ctf.md)
-- [2026-02-20 — Boss vs Fresher: System Design Cracker!](./2026-02-20-boss-vs-fresher-system-design.md)
+- [2026-02-16 — How I Audit Codebases as a Pentester (Live CTF)](./2026-02-16-pentester-codebase-audit-ctf.md) · standalone repo: [`pentester-audit-2026`](https://github.com/dscjisu/pentester-audit-2026)
+- [2026-02-20 — Boss vs Fresher: System Design Cracker!](./2026-02-20-boss-vs-fresher-system-design.md) · standalone repo: [`system-design-2026`](https://github.com/dscjisu/system-design-2026)
 - [2026-02-24 — Kubernetes and Friends Meetup (CNCF Hooghly)](./2026-02-24-kubernetes-and-friends-cncf-hooghly.md)
 - [2026-03-08 — Udyamini: Navigating Career with Confidence](./2026-03-08-udyamini-women-day.md) · standalone repo: [`udyamini`](https://github.com/dscjisu/udyamini)
 - [2026-04-06 — A Grand Welcome OWASP Community ft. @dscjisu](./2026-04-06-grand-welcome-owasp.md)
