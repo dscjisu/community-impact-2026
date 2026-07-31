@@ -24,4 +24,4 @@ Chronological log. Each file follows [`_template.md`](./_template.md). Use the d
 
 ---
 
-**Total this cycle so far:** 14 events
+This is a selected public archive from our 21-event season and is not an exhaustive event list.
